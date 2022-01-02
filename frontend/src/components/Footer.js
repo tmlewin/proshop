@@ -12,7 +12,7 @@ const Footer = () => {
                 </Row>
             </Container>
 
-            footers
+            
             
         </footer>
     )
